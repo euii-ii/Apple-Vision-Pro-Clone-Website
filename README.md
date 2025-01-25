@@ -37,20 +37,6 @@ Edit
 cd apple-vision-pro-clone
 Open the index.html file in your favorite browser to view the website.
 
-📂 Project Structure
-graphql
-Copy
-Edit
-apple-vision-pro-clone/
-│
-├── index.html           # Main HTML file
-├── css/
-│   └── styles.css       # Custom CSS for styling
-├── js/
-│   └── script.js        # JavaScript for interactivity
-└── assets/
-    ├── images/          # Product and UI images
-    └── videos/          # Background and feature videos
 🎨 Design Inspiration
 This project takes inspiration from Apple's official website and their high standards for design and functionality. Every detail is crafted to closely match the real-world Vision Pro website.
 
