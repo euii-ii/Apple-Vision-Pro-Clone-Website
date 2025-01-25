@@ -40,7 +40,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone 
+git clone https://github.com/euii-ii/apple-vision-pro-clone-website.git
 Navigate to the project directory:
 
 bash
