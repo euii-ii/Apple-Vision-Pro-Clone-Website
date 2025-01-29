@@ -12,7 +12,6 @@ Smooth Animations
 
 Eye-catching animations and transitions using CSS and JavaScript to replicate Apple's aesthetic.
 
-
 Interactive Elements
 
 Includes hover effects, scrolling animations, and interactive components.
