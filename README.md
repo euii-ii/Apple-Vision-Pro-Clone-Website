@@ -16,7 +16,6 @@ Interactive Elements
 
 Includes hover effects, scrolling animations, and interactive components.
 
-
 Modern UI/UX
 
 High-quality visuals and user-centric design inspired by Apple's branding.
